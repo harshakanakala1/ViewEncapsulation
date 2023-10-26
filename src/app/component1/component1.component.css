@@ -1,0 +1,8 @@
+.component{
+    text-align: center;
+    border: 2px solid gold;
+    width: 360px;
+    height: 200px;
+    margin-left: 200px;
+    margin-top: 20px;
+}

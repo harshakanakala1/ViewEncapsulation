@@ -1,0 +1,16 @@
+.app-component{
+    text-align: center;
+    border: 2px solid gold;
+    width: 720px;
+    height: 200px;
+    margin: 200px;
+    margin-top: 20px;
+}
+
+.componentcontainer{
+    display: flex;
+}
+
+button{
+    background-color: blue;
+}
